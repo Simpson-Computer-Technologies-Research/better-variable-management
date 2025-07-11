@@ -10,7 +10,7 @@ For example, having these three comments (below) helps developers understand the
 
 Of course it's good to move these code blobs into different functions (i.e. get_user, check_user, update_user), BUT, in some conditions (i.e. a lot of state/parameter variables in React) that can make the code ALOT more difficult to read, understand, and track.
 
-```
+```js
 fn veriryUser() {
    // Get user
    {blob of code}
