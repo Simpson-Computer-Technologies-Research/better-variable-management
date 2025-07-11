@@ -17,7 +17,7 @@ if (array[367] == 1) {
 
 ### OKAY
 
-If you still want to use arrays for memory optimization.
+If you still want to use arrays for memory + performance optimization.
 
 ```js
 const store = [ ... ] as const;
